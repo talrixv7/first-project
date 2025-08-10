@@ -1,0 +1,1 @@
+print("hello AI world! i am trying to be an ai engineer ")
